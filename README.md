@@ -62,6 +62,7 @@ A 'Unit/Currency Converter' application.
    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [Build variants](https://developer.android.com/studio/build/build-variants)
 
+
 ## 2. 'Nobody runs away from the military commissariat!'
 A 'Tabata timer' application. ([Reference](https://play.google.com/store/apps/details?id=com.evgeniysharafan.tabatatimer&hl=ru))
 
@@ -97,6 +98,7 @@ A 'Tabata timer' application. ([Reference](https://play.google.com/store/apps/de
 - [Preferences](https://developer.android.com/guide/topics/ui/settings)
 - [Style and theme](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 
+
 ## 3. 'The Numbers Mason! What do they Mean?'
 
 1. Create 'Calculator' app.
@@ -105,6 +107,7 @@ A 'Tabata timer' application. ([Reference](https://play.google.com/store/apps/de
 4. Each set of functions (numbers + basic functions and scientific functions) should be in separate fragments.
 5. For landscape device orientation app should always be in scientific mode.
 6. Create a 'demo' build flavor with only basic functions available for both screen orientations. User should be able to have both 'demo' and 'full' versions on device at the same time.
+
 
 ## 4. 'You wanna play? Let's play!'
 Online  'Battleship' or 'Chess' game.
