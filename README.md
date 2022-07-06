@@ -1,5 +1,3 @@
-Software Design Tasks 2022
-
 ## Table of Contents
 - [General requirements](#General-requirements)
 - [Tasks](#Tasks)
