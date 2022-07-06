@@ -32,7 +32,7 @@ Resulting **release** APK should be signed with a personal certificate automatic
 
 ## Languages
 Kotlin, Dart (Flutter), React Native, Swift (for iOS).
-Xamarin and Java are banned.
+Xamarin and Java allowed in agreement with the teacher
 
 # Tasks
 
