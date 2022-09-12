@@ -50,6 +50,8 @@ A 'Unit/Currency Converter' application.
    - A button to copy current value to the clipboard near each data field.
    - Use source sets to define different layouts and files with code for each flavour.
 
+In the lab report, present the following diagrams: Object diagram
+
 **Topics to cover:** gradle, build variants, product flavors, activities, fragments, activity lifecycle, views, controls, basic app architecture, product flavors.
 
 ### Further reading:
@@ -89,6 +91,8 @@ A 'Tabata timer' application. ([Reference](https://play.google.com/store/apps/de
    - switch app locale (a choice between two languages at least).
 9. Application should have a splash screen with app name or artwork to entertain the user while the app is being loaded.
 
+In the lab report, present the following diagrams: Class diagram, Activity diagram.
+
 **Topics to cover:** data storage, app architecture, styling, services, preferences.
 
 ### Further reading:
@@ -108,6 +112,7 @@ A 'Tabata timer' application. ([Reference](https://play.google.com/store/apps/de
 5. For landscape device orientation app should always be in scientific mode.
 6. Create a 'demo' build flavor with only basic functions available for both screen orientations. User should be able to have both 'demo' and 'full' versions on device at the same time.
 
+In the lab report, present the following diagrams: Use-Case diagram.
 
 ## 4. 'You wanna play? Let's play!'
 Online  'Battleship' or 'Chess' game.
@@ -125,6 +130,8 @@ Online  'Battleship' or 'Chess' game.
     - avatar (user can switch between these two options in profile)
       - remote storage using Firebase File storage
       - [Gravatar](https://ru.gravatar.com/)
+      
+In the lab report, present the following diagrams: Sequence diagram, Deployment diagram, Statechart diagram.
 
 **Topics to cover:** network, async operations, advanced UI practices.
 
